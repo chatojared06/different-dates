@@ -1,4 +1,4 @@
-#PlatziDate
+#different-dates
 
 Una utilidad para manejar fechas en fomrato timeStamp y LongTime
 

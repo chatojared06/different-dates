@@ -1,5 +1,5 @@
 {
-  "name": "platzidate",
+  "name": "different-dates",
   "version": "1.0.0",
   "description": "Una utilidad para manejar fechas en fomrato timeStamp y LongTime",
   "main": "src/index.js",
